@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+.project h3
+{
+   color:Black; 
+   text-align:center;
+}
+.project h3
+{
+   color:Black; 
+   text-align:center;
+}
+.project h2
+{
+   color:Black;
+  text-align:center;
+}
+.project h1
+{
+   text-align:center;
+   color:Black;
+   font-family: "Times New Roman", Times, serif;
+}
+
+.main
+{
+ padding: 100px 80px;
+}
+
+body
+{
+font-size:30px;
+padding:100px,80px;
+}
+.about h1
+{
+font-size:30px;
+text-align:center;
+}
+.about p
+{
+font-size:25px;
+text-align:center;
+}
+img
+{
+class="center";
+}
+.skill h1
+{
+  text-align:center;
+}
+.skill ul
+{
+padding:40px,60px;
+}
+</head>
+</html>
